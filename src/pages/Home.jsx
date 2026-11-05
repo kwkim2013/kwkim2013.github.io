@@ -15,16 +15,12 @@ export default function Home() {
         <div className="eyebrow">Back-end Developer / Seoul</div>
         <h1>김기욱</h1>
         <p className="lead">
-          중복되는 코드는 공통화하고, 플랫폼 차이는 분리해
-          <br />
-          유지보수하기 좋은 백엔드를 만듭니다.
+          서비스에 필요한 API와 데이터베이스를 설계하고, 요청과 응답을 검증합니다.
         </p>
         <p className="body-copy">
-          사내 UI 라이브러리를 개발·배포하며 재사용 가능한 컴포넌트를 구축하고
-          개발 기준을 정립했습니다.
+          PetPalace에서 예약 API와 PostgreSQL 데이터베이스를 설계하고 Toss Payments 결제를 연동했습니다.
           <br />
-          실시간 거래 서비스에서는 웹·모바일·데스크톱 앱이 하나의 코드베이스를
-          공유하도록 설계했습니다.
+          CGI_MOA에서는 Bruno로 GET·POST API의 요청과 응답을 검증했습니다.
         </p>
         <div className="quick-links">
           <a href="mailto:dnr0409@nate.com">
