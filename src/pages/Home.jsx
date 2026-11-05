@@ -15,7 +15,9 @@ export default function Home() {
         <div className="eyebrow">Back-end Developer / Seoul</div>
         <h1>김기욱</h1>
         <p className="lead">
-          서비스에 필요한 API와 데이터베이스를 설계하고, 요청과 응답을 검증합니다.
+          서비스에 필요한 API와 데이터베이스를 설계하고,
+          <br />
+          요청과 응답을 검증합니다.
         </p>
         <p className="body-copy">
           PetPalace에서 예약 API와 PostgreSQL 데이터베이스를 설계하고 Toss Payments 결제를 연동했습니다.
