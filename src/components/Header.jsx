@@ -1,4 +1,4 @@
-import { Download, GitBranch, Menu, X } from "lucide-react";
+import { Menu, X } from "lucide-react";
 import { useState } from "react";
 import { Link, useLocation } from "react-router-dom";
 
@@ -42,14 +42,6 @@ export default function Header() {
         >
           프로젝트
         </Link>
-        <a
-          className="download"
-          href="/portfolio.pdf"
-          download="김기욱-포트폴리오.pdf"
-          onClick={closeMenu}
-        >
-          <Download size={15} /> PDF 다운로드
-        </a>
       </nav>
     </header>
   );

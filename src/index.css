@@ -86,17 +86,6 @@ button {
   height: 2px;
   background: #2459ed;
 }
-.download {
-  border: 1px solid #dbe1e8;
-  background: white;
-  border-radius: 6px;
-  padding: 8px 10px;
-  display: flex;
-  align-items: center;
-  gap: 7px;
-  color: #1f2937;
-  font-size: 12px;
-}
 .mobile-menu {
   display: none;
   border: 0;
@@ -702,10 +691,6 @@ button {
   }
   .top-nav a.active:after {
     display: none;
-  }
-  .download {
-    justify-content: center;
-    margin-top: 8px;
   }
   .page-shell {
     display: block;
